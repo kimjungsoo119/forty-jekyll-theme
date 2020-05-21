@@ -1,8 +1,11 @@
 ---
-title: 포크
+title: 자기소개
 layout: landing
-description: 제가 관심있는 분야
-image: assets/images/pic07.jpg
+description: -김정수
+             -1997년 06월 22일 24세
+	     -2남 중 막내
+	     
+image: 
 nav-menu: true
 ---
 
@@ -40,4 +43,3 @@ nav-menu: true
 
 
 
-</div>
